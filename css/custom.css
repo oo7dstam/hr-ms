@@ -1,0 +1,42 @@
+.bacolor-logo{
+    height: 150px;
+    widows: 150px;
+}
+
+.bacolor-name{
+    font-weight: 500;
+    
+}
+
+.employee{
+}
+.employee-profile{
+    transform: translateX(100%);
+    border-radius: 50%;
+    border: solid 2px #74746e;
+    width: 130px;
+    height: 130px;
+    left: 0;
+    right: 0;
+}
+.employee-profile-picture {
+    border-radius: 50%;
+    margin-top: .3rem;
+    width: 120px;
+    height: 120px; 
+}
+
+.employee-name{
+    font-size: 3.1rem;
+    
+}
+
+.employee-position{
+    font-size: 2rem;
+    color: #d1cbcb;
+}
+.applyLeave_form{
+    pointer-events: none;
+    opacity: 0.4;
+}
+
