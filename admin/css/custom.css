@@ -1,0 +1,22 @@
+.bacolor-logo{
+    height: 50px;
+    widows: 50px;
+    display: block;
+    -ms-transform: translate(-5px,-10px); /* IE 9 */
+    -webkit-transform: translate(-5px,-10px); /* Safari */
+    transform: translate(-5px,-1.5rem); /* Standard syntax */
+    
+}
+
+.bacolor-name{
+    float: left;
+   
+    font-weight: 500;
+    margin-top: -5rem;
+    margin-left: 50px;
+}
+
+.notification{
+    margin-top: 0;
+}
+
