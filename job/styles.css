@@ -1,0 +1,55 @@
+body{
+    position: relative;
+    border: 0px solid #2c00e6;
+    width: 100%;
+    height: 840px;
+}
+
+.nav-logo{
+    border: 0px solid #d80808;
+}
+
+.nav-logo p{
+    border: 0px solid #09ea46;
+    top: 50;
+    margin-top: 20px;
+}
+
+.bacolor-logo{
+    height: 50px;
+    widows: 50px;
+    display: block;
+    -ms-transform: translate(-5px,-10px); /* IE 9 */
+    -webkit-transform: translate(-5px,-10px); /* Safari */
+    transform: translate(-5px,-1.5rem); /* Standard syntax */
+
+}
+
+.bacolor-name{
+    float: left;
+    margin-top: -6rem;
+    margin-left: 50px;
+    color: #fff;
+    font-weight: 100;
+    font-size: 25px;
+    
+}
+
+.footer{
+    border: 0px solid #c8ea0e;
+    position: absolute;
+    background-color: rgb(34,34,34);
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    bottom: 0;
+    color: #fff;
+    font-weight: 100;
+}
+
+.content{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 15px;
+}
